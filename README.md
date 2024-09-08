@@ -30,7 +30,7 @@ Welcome to the Solana T3 Stack Template! This project provides a robust starting
 2. Install dependencies:
    ```
    cd Solana-x-Prisma-APP
-   npm install
+   pnpm install
    ```
 
 3. Set up your environment variables:
@@ -41,7 +41,7 @@ Welcome to the Solana T3 Stack Template! This project provides a robust starting
 
 4. Run the development server:
    ```
-   npm run dev
+   pnpm dev
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
