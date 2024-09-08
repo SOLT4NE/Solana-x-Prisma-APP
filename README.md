@@ -48,7 +48,7 @@ Welcome to the Solana T3 Stack Template! This project provides a robust starting
 
 ## 📚 Documentation
 
-(Add links or instructions for more detailed documentation here)
+Not availble yet
 
 ## 🤝 Contributing
 
